@@ -1,3 +1,6 @@
+#Pre-requisite
+Install [aptos cli](https://aptos.dev/en/build/cli)
+
 # Move Fungible Token Example
 In this example, the fungible token(fixed supply) is created in two steps, first publish the module and then initialize the coin.
 
