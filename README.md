@@ -1,5 +1,5 @@
 # Move Fungible Token Example
-In this example, the fungible token is created in two steps, first publish the module and then initialize the coin.
+In this example, the fungible token(fixed supply) is created in two steps, first publish the module and then initialize the coin.
 
 ## Step 1
 cd into MyToken folder then run `aptos init --network testnet`
