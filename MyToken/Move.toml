@@ -1,0 +1,16 @@
+[package]
+name = "MyToken"
+version = "1.0.0"
+authors = []
+
+[addresses]
+coin_address = '27c47b05e43e516fc9037ff06be129b003dd64e92be365e87b7d27b28aa4084e'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
